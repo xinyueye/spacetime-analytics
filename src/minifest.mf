@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: c1.Test
+Class-Path: apache-mime4j-0.6.jar commons-codec-1.3.jar commons-logging-1.1.1.jar dsiutils-1.0.10.jar fastutil-5.1.5.jar httpclient-4.0.3.jar httpcore-4.0.1.jar httpmime-4.0.3.jar IKAnalyzer3.2.8.jar jackson-annotations-2.4.2.jar jackson-core-2.4.2.jar jackson-databind-2.4.2.jar jdom.jar junit-4.8.2.jar log4j-1.2.15.jar lucene-core-3.0.1.jar lucene-misc-3.0.1.jar mysql-connector-java-5.1.31-bin.jar rome-1.0.jar rome-fetcher-1.0.jar.jar
