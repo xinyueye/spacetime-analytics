@@ -1,0 +1,1 @@
+If you can't launch gephi on your laptop, pls install JRE1.7, gephi doesn't support JRE1.8 yet
